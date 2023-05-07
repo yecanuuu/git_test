@@ -7,6 +7,7 @@ public class Git {
         System.out.println("hello git");
         System.out.println("master hello git");
         System.out.println("hot-fix merge git");
+        System.out.println("github commit git");
     }
 }
 
